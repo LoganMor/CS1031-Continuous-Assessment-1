@@ -1,0 +1,28 @@
+/* General Css */
+body {
+    background-color: #FF93A7;
+}
+
+
+
+/* Title Css */
+div.title {
+	height: 200px;
+	line-height: 200px;
+}
+
+div.title h1 {
+    float:left;
+	
+}
+
+div.title img {
+    float:left;
+	height:200px;
+}
+
+div.title span {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+}
