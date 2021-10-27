@@ -1,0 +1,4 @@
+FF93A7 - Main Page Colour
+FF6088 - Secondary Colour for sub-sections
+808080 - Colour for Text
+A0A0A0 - Colour for Borders
